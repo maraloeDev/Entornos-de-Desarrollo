@@ -35,6 +35,6 @@ public class WiFi {
     public void setWifi(String wifi) {
         this.wifi = wifi;
     }
-    
+     
     
 }
