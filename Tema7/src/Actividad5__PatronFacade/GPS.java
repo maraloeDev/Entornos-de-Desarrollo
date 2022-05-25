@@ -19,7 +19,7 @@ public class GPS {
     }
     
     
-    Public Posicion UltimaPosicion(){
+    public Posicion UltimaPosicion(){
         Posicion p = new Posicion();
         
         p.setLatitud("5.4");
